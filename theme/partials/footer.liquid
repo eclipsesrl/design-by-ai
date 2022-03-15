@@ -1,0 +1,74 @@
+<div class="footer wf-section">
+    <div class="container-footer">
+      <div class="container">
+        <div class="top-section">
+          <div class="footer-text">Artificial Intelligence helps designers in tedious tasks to free up more time for creative problem solving.<br>
+            <a href="https://aidesign.tools">AI Design.Tools </a>is a website where I hand pick the best articles and tools in the related fields of artificial intelligence and design. A handy collection for everyone's benefit. It's not a collection of theoretical articles and clickbait links – I use most of these tools myself.
+          </div>
+        </div>
+        <div class="top-section-copyr">
+          <div class="footer-small-text">© 2021 BENCIUM LIMITED. all rights reserved</div>
+        </div>
+      </div>
+      <div class="separator-footer">
+        <div class="separator-color footer-line"></div>
+      </div>
+      <div class="container">
+        <div class="bottom">
+          <div class="bottom-1">
+            <div data-delay="0" data-hover="false" class="dropdown w-dropdown">
+              <div class="dropdown-toggle w-dropdown-toggle">
+                <div class="icon w-icon-dropdown-toggle"></div>
+                <div class="text-block-2">Category</div>
+              </div>
+              <nav class="dropdown-list w-dropdown-list">
+                {%- assign collection = collections.categories -%}<div class="w-dyn-list">
+                  {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                    {%- for item in collection -%}<div role="listitem" class="dropdown-link-o w-dyn-item">
+                      <a href="{{ item.url }}" class="dropdown-link-text">{{ item.data.title }}</a>
+                    </div>{%- endfor -%}
+                  </div>{%- endunless -%}
+                  {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                    <div>No items found.</div>
+                  </div>{%- endif -%}
+                </div>
+              </nav>
+            </div>
+            <div class="footer-categories">
+              <div class="footer-title-text">Categories</div>
+              <div class="footer-links-container cc-categories">
+                {%- assign collection = collections.categories | sort: "title" | limit: 12 -%}<div class="w-dyn-list">
+                  {%- unless collection.length == 0 -%}<div role="list" class="collection-list w-dyn-items">
+                    {%- for item in collection -%}<div role="listitem" class="footer-collection-item w-dyn-item">
+                      <a href="{{ item.url }}" class="link-footer">{{ item.data.title }}</a>
+                    </div>{%- endfor -%}
+                  </div>{%- endunless -%}
+                  {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                    <div>No items found.</div>
+                  </div>{%- endif -%}
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="bottom-2">
+            <div class="footer-links-container">
+              <div class="footer-links">
+                <div class="footer-title-text">Information</div>
+                <div class="footer-links-inner">
+                  <a href="/about" class="nav-link white">About</a>
+                  <a href="/roadmap-design-by-artificial-intelligence" class="nav-link white">Roadmap</a>
+                </div>
+              </div>
+              <div class="footer-links">
+                <div class="footer-title-text">DESIGN &amp;&nbsp;DEV</div>
+                <div class="footer-links-inner">
+                  <a href="https://bencium.co.uk" target="_blank" class="nav-link white"> by Bencium</a>
+                  <div class="footer-small-text">Currently in beta</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,62 @@
+<div class="section footer-v1-section wf-section">
+      <div class="wrapper">
+        <div class="footer-v1">
+          <div class="footer-v1-column about">
+            <a href="#" class="footer-v1-brand w-inline-block"><img src="/assets/images/ailogo.png" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;53.7734375px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;57.8046875px&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;48.3984375px&quot;}]" alt="AI Design Tools + web3 + NFT logo" class="footer-v1-logo">
+              <div class="footer-v1-logo-text">AI Design Tools</div>
+            </a>
+            <div class="footer-v1-info">Artificial Intelligence helps designers in tedious tasks to free up more time for creative problem solving.<br>
+              <a href="https://aidesign.tools">AI Design.Tools </a>is a website where the best articles and tools in the related fields of artificial intelligence and design are hand picked. A handy collection for everyone's benefit – tools are tested as time allows.
+            </div>
+          </div>
+          <div class="footer-v1-column">
+            <h4 class="footer-v1-heading">Categories</h4>
+            {%- assign collection = collections.categories | sort: "title" -%}<div class="w-dyn-list">
+              {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                  <a href="{{ item.url }}" class="footer-v1-nav-link w-inline-block"><img src="/assets/images/right.svg" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;16px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;2vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16px&quot;}]" alt="right arrow" class="nav-arrow">
+                    <div>{{ item.data.title }}</div>
+                  </a>
+                </div>{%- endfor -%}
+              </div>{%- endunless -%}
+              {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                <div>No items found.</div>
+              </div>{%- endif -%}
+            </div>
+          </div>
+          <div class="footer-v1-column">
+            <h4 class="footer-v1-heading">Tags</h4>
+            {%- assign collection = collections.tags | sort: "title" -%}<div class="w-dyn-list">
+              {%- unless collection.length == 0 -%}<div role="list" class="sidebar-tags w-dyn-items">
+                {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                  <a href="{{ item.url }}" class="tag">{{ item.data.title }}</a>
+                </div>{%- endfor -%}
+              </div>{%- endunless -%}
+              {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                <div>No items found.</div>
+              </div>{%- endif -%}
+            </div>
+          </div>
+          <div class="footer-v1-column">
+            <h4 class="footer-v1-heading">About</h4>
+            <a href="/about" class="footer-v1-nav-link w-inline-block"><img src="/assets/images/right.svg" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;16px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;2vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16px&quot;}]" alt="right arrow" class="nav-arrow">
+              <div class="text-block-6">About</div>
+            </a>
+            <a href="/roadmap-design-by-artificial-intelligence" class="footer-v1-nav-link w-inline-block"><img src="/assets/images/right.svg" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;16px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;2vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16px&quot;}]" alt="right arrow" class="nav-arrow">
+              <div>Planned Features</div>
+            </a>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <div class="footer-bottom-left">
+            <div class="text-block-small">Currently in beta 🤖</div>
+            <div class="divider-small"></div>
+            <a href="https://aidesign.pirsch.io/?domain=aidesign.tools&amp;interval=30d" target="_blank" class="link-dark">Visitor Stats</a>
+            <div class="divider-small"></div>
+            <a href="https://www.bencium.co.uk" target="_blank" class="link-dark">Created by Bencium </a>
+            <div class="divider-small"></div>
+            <div>Copyrights and/or trademarks of any image used belong to their respective owners and are not being sold.</div>
+          </div>
+        </div>
+      </div>
+    </div>
