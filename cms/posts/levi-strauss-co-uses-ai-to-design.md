@@ -12,7 +12,7 @@ f_reading-time: "10"
 f_title: Levi Strauss & Co uses AI algorithm to design
 f_source: https://www.levistrauss.com/2021/11/10/ai-shaping-design-levi-strauss/
 f_author-4: cms/team/bence.md
-f_category-5: cms/categories/tools.md
+f_category-5: cms/categories/ai-ml.md
 f_tags:
   - cms/tags/design.md
 f_social-media-share-image:
@@ -24,9 +24,16 @@ layout: "[posts].html"
 date: 2022-03-23T18:12:06.174Z
 seo:
   noindex: false
-  twitter:title: summary
-  twitter:card: summary
+  twitter:title: Levi Strauss & Co uses AI to design
+  twitter:card: With thousands of options to pick from, designers could narrow
+    down choices, fine-tune designs and give the process the much-needed
+    creative human influence to perfect the piece.
   og:image: https://www.levistrauss.com/wp-content/uploads/2021/11/2021110_AI-DESIGNER-ART-TRUCKER_HERO.jpg
+  title: Levi Strauss & Co uses AI to design
+  og:title: Levi Strauss & Co uses AI to design
+  description: With thousands of options to pick from, designers could narrow down
+    choices, fine-tune designs and give the process the much-needed creative
+    human influence to perfect the piece.
 ---
 > "To test out his algorithm, Ron decided to design a new Levi’s® Trucker jacket. For inspiration, he leaned on his passion for art history. The classics came to mind: Van Gogh’s Starry Night, David Hockney’s Apple Tree, and Jasper Johns’ Corpse and Mirror II, among 30-plus other references. Using the same algorithm, the program was able to define various parts of the art pieces — like brush strokes, color, and edges — and with a click of a button, the program could replicate thousands of different design options in a matter of seconds.
 >
