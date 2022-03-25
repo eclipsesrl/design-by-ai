@@ -2034,6 +2034,10 @@ figcaption {
   color: #fff;
 }
 
+.section.hide {
+  display: none;
+}
+
 .sg-button-block {
   display: -webkit-box;
   display: -webkit-flex;
