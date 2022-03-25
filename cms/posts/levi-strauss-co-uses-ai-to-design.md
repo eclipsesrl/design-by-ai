@@ -1,8 +1,8 @@
 ---
 title: Levi Strauss & Co uses AI to design
-created-on: 2022-03-23T18:04:44.204Z
-updated-on: 2022-03-23T18:04:44.224Z
-published-on: 2022-03-23T18:04:44.242Z
+created-on: 2022-03-25T09:42:12.776Z
+updated-on: 2022-03-25T09:42:13.960Z
+published-on: 2022-03-25T09:42:15.327Z
 f_article-thumbnail-image-url: https://www.levistrauss.com/wp-content/uploads/2021/11/2021110_AI-DESIGNER-ART-TRUCKER_HERO.jpg
 f_image-url: https://www.levistrauss.com/wp-content/uploads/2021/11/2021110_AI-DESIGNER-ART-TRUCKER_HERO.jpg
 f_text: With thousands of options to pick from, designers could narrow down
