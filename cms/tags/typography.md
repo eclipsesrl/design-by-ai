@@ -1,5 +1,5 @@
 ---
-title: typography
+title: Typography
 created-on: 2022-04-01T10:56:15.766Z
 updated-on: 2022-04-01T10:56:15.776Z
 published-on: 2022-04-01T10:56:15.781Z
