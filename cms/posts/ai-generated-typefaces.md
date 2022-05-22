@@ -1,30 +1,28 @@
 ---
-title: AI Generated Typefaces
-created-on: 2021-06-03T09:20:05.284Z
-updated-on: 2021-11-25T13:05:58.620Z
-published-on: 2022-03-03T08:54:19.378Z
-f_article-thumbnail-image-url: https://process.studio/wp-content/uploads/2018/10/IMG_2197.jpg
-f_image-url: https://process.studio/wp-content/uploads/2018/10/IMG_2197.jpg
-f_text: Generating new typefaces with Deep Learning
-f_reading-time: "5"
-f_title: Read about fantastic examples of machine generated typefaces
 f_source: https://process.studio/works/aifont-ai-generated-typeface/
-f_author-4: cms/team/viktor-suszter.md
+f_article-thumbnail-image-url: https://process.studio/wp-content/uploads/2018/10/IMG_2197.jpg
+title: AI Generated Typefaces
+f_text: Generating new typefaces with Deep Learning
+f_title: Read about fantastic examples of machine generated typefaces
+f_image-url: https://process.studio/wp-content/uploads/2018/10/IMG_2197.jpg
+f_social-media-share-image:
+  url: >-
+    https://uploads-ssl.webflow.com/62065e264f3132155f575139/62065e264f313217ac575269_IMG_2197.jpg
+  alt: null
+slug: ai-generated-typefaces
 f_category-5: cms/categories/tools.md
+f_author-4: cms/team/viktor-suszter.md
+updated-on: '2021-11-25T13:05:58.620Z'
+created-on: '2021-06-03T09:20:05.284Z'
+published-on: '2022-03-03T08:54:19.378Z'
 f_tags:
   - cms/tags/featured.md
-  - cms/tags/typography.md
-  - cms/tags/design.md
-  - cms/tags/branding.md
-f_social-media-share-image:
-  url: https://uploads-ssl.webflow.com/62065e264f3132155f575139/62065e264f313217ac575269_IMG_2197.jpg
-  alt: null
+  - cms/tags/app-software.md
 f_featured: false
 f_trending: false
+f_reading-time: '5'
+layout: '[posts].html'
 tags: posts
-layout: "[posts].html"
-slug: ai-generated-typefaces
-date: 2022-04-01T11:00:51.771Z
 ---
 
 Read about a few fantastic examples of machine generated typefaces: the one on the picture is made by the Viennese [Process Studio:](https://process.studio/works/aifont-ai-generated-typeface/)

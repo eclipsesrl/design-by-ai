@@ -1,13 +1,13 @@
 <div data-animation="default" class="nav-bar-v1 w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" role="banner" data-duration="400" id="Navigation" data-doc-height="1">
     <div class="wrapper nav-bar-v1-wrapper">
-      <a href="/" class="nav-brand-v1 w-nav-brand"><img src="/assets/images/ailogo.png" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;53.7734375px&quot;}]" alt="AI Design Tools + web3 + NFT logo" class="nav-logo">
-        <div class="nav-logo-text">Design + AI + web3 + NFT </div>
+      <a href="{{ links.2f }}" class="nav-brand-v1 w-nav-brand"><img src="{{ images.-49df14d8.url }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;53.7734375px&quot;}]" alt="{{ images.-49df14d8.alt | trim | escape }}" class="nav-logo">
+        <div class="nav-logo-text">{{ texts.-725df0dc }}</div>
       </a>
       <nav role="navigation" class="nav-menu-v1 w-nav-menu">
-        <a href="/" class="nav-link-1 w-nav-link">Home</a>
+        <a href="{{ links.2f }}" class="nav-link-1 w-nav-link">{{ texts.2268ff }}</a>
         <div data-hover="true" data-delay="400" class="dropdown-2 dropdown-big w-dropdown">
           <div class="nav-link-1 w-dropdown-toggle">
-            <div>Categories</div>
+            <div>{{ texts.-3be6ddc4 }}</div>
           </div>
           <nav class="dropdown-wrapper w-dropdown-list">
             <div class="dropdown-space"></div>
@@ -20,19 +20,19 @@
                     </div>{%- endfor -%}
                   </div>{%- endunless -%}
                   {%- if collection.length == 0 -%}<div class="w-dyn-empty">
-                    <div>No items found.</div>
+                    <div>{{ texts.3d503d2b }}</div>
                   </div>{%- endif -%}
                 </div>
               </div>
             </div>
           </nav>
         </div>
-        <a href="https://www.aidesign.tools/categories/tools" class="nav-link-1 w-nav-link">AI&nbsp;Design Tools</a>
-        <a href="/about" class="nav-link-1 w-nav-link">About</a>
+        <a href="{{ links.4052275e }}" class="nav-link-1 w-nav-link">{{ texts.6347c671 }}</a>
+        <a href="{{ links.55b8e8be }}" class="nav-link-1 w-nav-link">{{ texts.3c2336d }}</a>
       </nav>
       <nav role="navigation" class="nav-menu-v1 w-nav-menu">
         <div class="nav-menu-small">
-          <a href="mailto:ben@bencium.co.uk?subject=AI%20Design%20Tools%20enquiry" class="nav-link-small w-nav-link">Advertise</a>
+          <a href="{{ links.680a5b77 }}" class="nav-link-small w-nav-link">{{ texts.4e4b4807 }}</a>
         </div>
       </nav>
       <div class="menu-button-2 w-nav-button">

@@ -1,68 +1,4 @@
 {
-  "7deb2dd6": {
-    "url": "/assets/images/annie-spratt-jftba6aejqk-unsplash.jpg",
-    "alt": ""
-  },
-  "57f42729": {
-    "url": "/assets/images/cs_grid_angled-pano_367588.jpg",
-    "alt": ""
-  },
-  "1c03902c": {
-    "url": "/assets/images/hero-2.jpg",
-    "alt": ""
-  },
-  "79fe1970": {
-    "url": "/assets/images/nations-trust-bank-statement-design.jpg",
-    "alt": ""
-  },
-  "i108cf759": {
-    "url": "/assets/images/photo-10.jpg",
-    "alt": ""
-  },
-  "i15afd68f": {
-    "url": "/assets/images/workspace-mockup-scene.png",
-    "alt": ""
-  },
-  "i44a44c73": {
-    "url": "/assets/images/unicredit_hird-nelkul1.jpg",
-    "alt": ""
-  },
-  "23d3fc9d": {
-    "url": "/assets/images/ntbcombined-account1.jpg",
-    "alt": ""
-  },
-  "i4b1f3c09": {
-    "url": "/assets/images/img_7841-1600-copy.jpg",
-    "alt": ""
-  },
-  "i31f8e80f": {
-    "url": "/assets/images/photo-3.jpg",
-    "alt": ""
-  },
-  "i34493813": {
-    "url": "/assets/images/bruce-mars-s8ffhr_dxho-unsplash.jpg",
-    "alt": ""
-  },
-  "644e6804": {
-    "url": "/assets/images/christina-wocintechchat-com-9-ohfp-dicg-unsplash.jpg",
-    "alt": ""
-  },
-  "6bd25668": {
-    "url": "/assets/images/underline.svg",
-    "alt": ""
-  },
-  "i3cfb2661": {
-    "url": "/assets/images/underline_long.svg",
-    "alt": ""
-  },
-  "i6d718e60": {
-    "url": "/assets/images/grain_latest.png",
-    "alt": ""
-  },
-  "i7f3bb29d": {
-    "url": "/assets/images/button-bg3.gif",
-    "alt": ""
-  },
   "i25376334": {
     "url": "/assets/images/image-header.jpg",
     "alt": ""
@@ -77,6 +13,70 @@
   },
   "i4cf71348": {
     "url": "/assets/images/search.svg",
+    "alt": ""
+  },
+  "-49df14d8": {
+    "url": "/assets/images/ailogo.png",
+    "alt": "AI Design Tools + web3 + NFT logo"
+  },
+  "-1ca4d348": {
+    "url": "/assets/images/right.svg",
+    "alt": "right arrow"
+  },
+  "15bead91": {
+    "url": "https://uploads-ssl.webflow.com/619cb42e609e0dd3a32e631f/619cb42f609e0d2b232e6396_right-white.svg",
+    "alt": "more link"
+  },
+  "-2ee32cf6": {
+    "url": "https://uploads-ssl.webflow.com/5d04fc355b8916913bbf365a/5d04fc355b89169e22bf36ad_clock.svg",
+    "alt": ""
+  },
+  "-2dfc3a63": {
+    "url": "https://uploads-ssl.webflow.com/619cb42e609e0dd3a32e631f/619cb42f609e0d74942e636f_clock-white.svg",
+    "alt": "watch icon"
+  },
+  "4abef31c": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/static/utility-lock.ae54711958.svg",
+    "alt": ""
+  },
+  "-2b1beb3c": {
+    "url": "https://d3e54v103j8qbb.cloudfront.net/static/page-not-found.211a85e40c.svg",
+    "alt": ""
+  },
+  "-30b2d101": {
+    "url": "/assets/images/curating.gif",
+    "alt": "components.ai generative design tool"
+  },
+  "7e484070": {
+    "url": "https://uploads-ssl.webflow.com/619cb42e609e0dd3a32e631f/619cb42f609e0d512e2e6399_calendar.svg",
+    "alt": ""
+  },
+  "-32e5948f": {
+    "url": "https://uploads-ssl.webflow.com/619cb42e609e0dd3a32e631f/619cb42f609e0d8bac2e6386_right.svg",
+    "alt": ""
+  },
+  "-634ec14c": {
+    "url": "/assets/images/256.png",
+    "alt": "hypeless.io"
+  },
+  "36263e63": {
+    "url": "/assets/images/external-link_1external-link.png",
+    "alt": ""
+  },
+  "-478370b8": {
+    "url": "https://uploads-ssl.webflow.com/5d04fc355b8916913bbf365a/5d04fc355b89160947bf36aa_twitter-white.svg",
+    "alt": ""
+  },
+  "-136c7ae5": {
+    "url": "https://uploads-ssl.webflow.com/5d04fc355b8916913bbf365a/5d04fc355b8916a011bf36d0_twitter.svg",
+    "alt": ""
+  },
+  "-36b5b475": {
+    "url": "/assets/images/trent-szmolnik-1271248-unsplash.jpg",
+    "alt": ""
+  },
+  "4e2cb9bf": {
+    "url": "/assets/images/jared-rice-408402-unsplash.jpg",
     "alt": ""
   }
 }

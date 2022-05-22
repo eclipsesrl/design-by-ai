@@ -91,24 +91,21 @@
 }
 
 body {
-  background-color: #f1e9e7;
-  font-family: Cabinetgrotesk, sans-serif;
+  background-color: #fff;
+  font-family: Archivo, sans-serif;
   color: #000;
   font-size: 14px;
   line-height: 24px;
+  font-weight: 400;
 }
 
 h1 {
   margin-top: 8px;
   margin-bottom: 24px;
   font-size: 44px;
-  line-height: 60px;
-  font-weight: 700;
+  line-height: 50px;
+  font-weight: 400;
   text-decoration: none;
-}
-
-h1:hover {
-  color: #045c44;
 }
 
 h1:focus-visible {
@@ -122,20 +119,12 @@ h1[data-wf-focus-visible] {
 h2 {
   margin-top: 0px;
   margin-bottom: 20px;
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Archivo, sans-serif;
   color: #000;
   font-size: 28px;
   line-height: 40px;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: none;
-}
-
-h2:hover {
-  color: #045c44;
-}
-
-h2:active {
-  color: #000;
 }
 
 h2:focus {
@@ -148,11 +137,11 @@ h2:focus {
 h3 {
   margin-top: 0px;
   margin-bottom: 12px;
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Archivo, sans-serif;
   color: #000;
   font-size: 22px;
   line-height: 32px;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: none;
 }
 
@@ -161,7 +150,7 @@ h4 {
   margin-bottom: 16px;
   font-size: 18px;
   line-height: 28px;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 h5 {
@@ -169,7 +158,7 @@ h5 {
   margin-bottom: 8px;
   font-size: 15px;
   line-height: 24px;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 h6 {
@@ -177,13 +166,13 @@ h6 {
   margin-bottom: 16px;
   font-size: 12px;
   line-height: 20px;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 p {
   margin-top: 0px;
   margin-bottom: 24px;
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Archivo, sans-serif;
   color: #000;
   font-size: 20px;
   line-height: 32px;
@@ -191,7 +180,7 @@ p {
 }
 
 a {
-  color: #045c44;
+  color: #6a00ff;
   text-decoration: none;
 }
 
@@ -238,6 +227,16 @@ img {
   max-width: 100%;
   margin-top: 0px;
   margin-bottom: 0px;
+}
+
+strong {
+  background-color: #09ff89;
+  outline-color: #686464;
+  outline-offset: 0px;
+  outline-style: none;
+  outline-width: 3px;
+  color: #000;
+  font-weight: 400;
 }
 
 blockquote {
@@ -586,11 +585,11 @@ figcaption {
   -ms-flex-item-align: auto;
   -ms-grid-row-align: auto;
   align-self: auto;
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Archivo, sans-serif;
   color: #777;
   font-size: 10px;
   line-height: 12px;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 0.5px;
   text-transform: uppercase;
 }
@@ -602,7 +601,7 @@ figcaption {
   align-self: baseline;
   font-size: 12px;
   line-height: 16px;
-  font-weight: 300;
+  font-weight: 400;
   text-transform: none;
 }
 
@@ -911,22 +910,22 @@ figcaption {
 }
 
 .rich-text h2 {
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Archivo, sans-serif;
   font-size: 26px;
   line-height: 30px;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: none;
 }
 
 .rich-text h3 {
-  font-family: Cabinetgrotesk, sans-serif;
-  font-weight: 700;
+  font-family: Archivo, sans-serif;
+  font-weight: 400;
   text-transform: none;
 }
 
 .rich-text p {
   margin-bottom: 24px;
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Archivo, sans-serif;
   color: #000;
   font-size: 20px;
   line-height: 32px;
@@ -934,30 +933,30 @@ figcaption {
 }
 
 .rich-text li {
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Archivo, sans-serif;
   font-size: 20px;
   line-height: 32px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .rich-text blockquote {
   margin-top: 40px;
   margin-bottom: 40px;
   padding: 16px 40px;
-  border-left: 2px solid #045c44;
+  border-left: 2px solid #6a00ff;
   border-top-style: none;
-  font-family: Cabinetgrotesk, sans-serif;
-  color: #045c44;
+  font-family: Archivo, sans-serif;
+  color: #686464;
   font-size: 20px;
   line-height: 32px;
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .rich-text figcaption {
   margin-top: 20px;
   margin-bottom: -4px;
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Archivo, sans-serif;
   color: #000;
   font-size: 14px;
   line-height: 24px;
@@ -978,13 +977,13 @@ figcaption {
 }
 
 .rich-text h4 {
-  font-family: Cabinetgrotesk, sans-serif;
-  font-weight: 700;
+  font-family: Archivo, sans-serif;
+  font-weight: 900;
 }
 
 .rich-text h5 {
-  font-family: Cabinetgrotesk, sans-serif;
-  font-weight: 700;
+  font-family: Archivo, sans-serif;
+  font-weight: 900;
 }
 
 .rich-text h6 {
@@ -1206,7 +1205,7 @@ figcaption {
 
 .divider-small {
   width: 1px;
-  height: 28px;
+  height: 20px;
   margin-right: 12px;
   margin-left: 12px;
   background-color: #999;
@@ -1262,7 +1261,7 @@ figcaption {
 }
 
 .nav-brand-v1:hover {
-  color: #06c25e;
+  color: #000;
 }
 
 .menu-line-bottom {
@@ -1350,6 +1349,8 @@ figcaption {
 
 .footer-v1-info {
   color: #000;
+  font-size: 16px;
+  line-height: 28px;
 }
 
 .button-icon-2 {
@@ -1360,24 +1361,29 @@ figcaption {
 
 .nav-link-1 {
   z-index: 1;
-  margin-right: 0px;
+  margin-right: 20px;
   margin-left: 0px;
   padding: 8px 16px;
   border-radius: 6px;
   -webkit-transition: background-color 150ms ease;
   transition: background-color 150ms ease;
-  font-size: 14px;
-  font-weight: 700;
+  font-size: 18px;
+  font-weight: 400;
   text-decoration: none;
 }
 
 .nav-link-1:hover {
-  background-color: #f6f6f6;
+  border: 1px solid #09ff89;
+  border-radius: 0px;
+  background-color: transparent;
 }
 
 .nav-link-1.w--current {
-  background-color: #f6f1e8;
+  border: 1px solid #09ff89;
+  border-radius: 0px;
+  background-color: transparent;
   color: #151515;
+  font-weight: 400;
 }
 
 .paragraph-big {
@@ -1502,7 +1508,8 @@ figcaption {
   margin-left: 12px;
   font-size: 18px;
   line-height: 28px;
-  font-weight: 700;
+  font-weight: 900;
+  letter-spacing: -0.5px;
 }
 
 .sg-block {
@@ -1537,14 +1544,14 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-style: none;
-  border-radius: 6px;
+  border-radius: 24px;
   background-color: #09ff89;
   -webkit-transition: background-color 400ms cubic-bezier(.215, .61, .355, 1), box-shadow 400ms cubic-bezier(.215, .61, .355, 1), color 400ms cubic-bezier(.215, .61, .355, 1);
   transition: background-color 400ms cubic-bezier(.215, .61, .355, 1), box-shadow 400ms cubic-bezier(.215, .61, .355, 1), color 400ms cubic-bezier(.215, .61, .355, 1);
   color: #000;
   font-size: 16px;
   line-height: 24px;
-  font-weight: 700;
+  font-weight: 400;
   text-align: center;
   text-decoration: none;
 }
@@ -1563,6 +1570,7 @@ figcaption {
 .button-2.big {
   height: 56px;
   padding: 17px 28px 15px 24px;
+  border-radius: 30px;
   font-size: 16px;
   line-height: 20px;
 }
@@ -1677,11 +1685,11 @@ figcaption {
   padding: 0px 20px;
   border-top-style: none;
   border-left-style: solid;
-  border-left-color: #045c44;
-  font-family: Cabinetgrotesk, sans-serif;
-  color: #045c44;
-  font-size: 16px;
-  line-height: 28px;
+  border-left-color: #6a00ff;
+  font-family: Archivo, sans-serif;
+  color: #686464;
+  font-size: 20px;
+  line-height: 32px;
   font-weight: 400;
 }
 
@@ -1695,7 +1703,7 @@ figcaption {
 }
 
 .post-rich-text figcaption {
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 14px;
 }
 
@@ -1857,7 +1865,7 @@ figcaption {
   margin-left: 0px;
   padding: 8px 10px;
   color: #888;
-  font-size: 11px;
+  font-size: 14px;
   line-height: 16px;
   text-decoration: none;
 }
@@ -2129,10 +2137,15 @@ figcaption {
   font-size: 18px;
   line-height: 28px;
   font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.nav-logo-text:hover {
+  color: #6a00ff;
 }
 
 .heading-3 {
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Cabinetgrotesk;
   font-weight: 700;
 }
 
@@ -2346,12 +2359,17 @@ figcaption {
   display: inline-block;
   height: 24px;
   padding: 3px 12px;
+  border: 1px none #000;
   border-radius: 12px;
-  background-color: rgba(21, 21, 21, 0.7);
+  background-color: #000;
   color: #fff;
   font-size: 11px;
   line-height: 16px;
-  font-weight: 700;
+  font-weight: 400;
+}
+
+.badge.w--current {
+  font-weight: 400;
 }
 
 .post-summary {
@@ -2362,6 +2380,8 @@ figcaption {
 
 .post-summary.hero {
   color: #fff;
+  font-size: 24px;
+  line-height: 30px;
 }
 
 .thumbfill2 {
@@ -2387,7 +2407,7 @@ figcaption {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  border-radius: 6px;
+  border-radius: 0px;
 }
 
 .post-card-avatar {
@@ -2417,6 +2437,10 @@ figcaption {
   display: flex;
   padding-top: 4px;
   padding-bottom: 4px;
+}
+
+.post-info-block.w--current {
+  font-weight: 400;
 }
 
 .post-info {
@@ -2478,7 +2502,7 @@ figcaption {
 }
 
 .post-heading-link:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .post-heading-link:focus {
@@ -2507,7 +2531,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border: 1px solid #ccc;
-  border-radius: 6px;
+  border-radius: 0px;
   -webkit-transition: border-color 300ms ease;
   transition: border-color 300ms ease;
   color: #151515;
@@ -2555,7 +2579,7 @@ figcaption {
   border-style: solid;
   border-width: 1px;
   border-color: #e6e6e6;
-  border-radius: 4px;
+  border-radius: 12px;
   background-color: #fff;
   -webkit-transition: color 200ms ease, border-color 200ms ease, background-color 200ms ease;
   transition: color 200ms ease, border-color 200ms ease, background-color 200ms ease;
@@ -2568,8 +2592,13 @@ figcaption {
 
 .tag:hover {
   border-color: #06c25e;
-  background-color: #06c25e;
+  background-color: #6a00ff;
   color: #fff;
+}
+
+.tag.w--current {
+  border-color: #09ff89;
+  font-weight: 400;
 }
 
 .post-info-block-a {
@@ -2590,7 +2619,7 @@ figcaption {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  border-radius: 6px;
+  border-radius: 0px;
 }
 
 .team-member-links {
@@ -2648,7 +2677,7 @@ figcaption {
 
 .team-member-photo {
   height: 248px;
-  border-radius: 6px;
+  border-radius: 0px;
   background-image: var(--image-7b40fadb);
   background-position: 50% 50%;
   background-size: cover;
@@ -2662,7 +2691,13 @@ figcaption {
 .post-heading {
   margin-top: 12px;
   margin-bottom: 12px;
+  line-height: 50px;
+  letter-spacing: -1px;
   text-transform: capitalize;
+}
+
+.post-heading:hover {
+  color: #fff;
 }
 
 .post-hero-gradient {
@@ -3086,8 +3121,7 @@ figcaption {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  border-radius: 6px;
-  background-color: #f6f6f6;
+  border-radius: 0px;
 }
 
 .thumbnail-medium {
@@ -3103,7 +3137,7 @@ figcaption {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  border-radius: 6px;
+  border-radius: 0px;
 }
 
 .grid-medium {
@@ -3149,7 +3183,12 @@ figcaption {
 .post-heading-big {
   margin-top: 20px;
   margin-bottom: 12px;
+  letter-spacing: -1px;
   text-transform: capitalize;
+}
+
+.post-heading-big:hover {
+  text-decoration: none;
 }
 
 .coverfeatureimg {
@@ -3164,6 +3203,7 @@ figcaption {
 .post-heading-medium {
   margin-top: 16px;
   margin-bottom: 12px;
+  line-height: 34px;
 }
 
 .coverthumb {
@@ -3215,6 +3255,7 @@ figcaption {
   margin-top: 12px;
   margin-bottom: 16px;
   color: #fff;
+  line-height: 34px;
   text-transform: capitalize;
 }
 
@@ -3241,7 +3282,7 @@ figcaption {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  border-radius: 6px;
+  border-radius: 0px;
   color: #fff;
 }
 
@@ -3398,6 +3439,7 @@ figcaption {
 
 .post-mini-heading {
   margin-bottom: 4px;
+  line-height: 24px;
   text-transform: capitalize;
 }
 
@@ -3467,6 +3509,7 @@ figcaption {
 .post-heading-small {
   margin-top: 12px;
   margin-bottom: 4px;
+  line-height: 28px;
 }
 
 .thumbnail-small {
@@ -3482,7 +3525,7 @@ figcaption {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  border-radius: 6px;
+  border-radius: 0px;
 }
 
 .subscribe-v3-form {
@@ -3506,7 +3549,7 @@ figcaption {
   margin-bottom: 0px;
   padding: 8px 24px;
   border: 1px solid #ccc;
-  border-radius: 6px;
+  border-radius: 0px;
   background-color: transparent;
   box-shadow: none;
   -webkit-transition: border-color 300ms ease, background-color 300ms ease;
@@ -3527,6 +3570,7 @@ figcaption {
 
 .input.no-margin {
   border-color: #ccc;
+  border-radius: 0px;
 }
 
 .text-link-dark {
@@ -3998,6 +4042,10 @@ figcaption {
   padding-left: 28px;
 }
 
+.nav-brand-v2.w--current:hover {
+  color: #6a00ff;
+}
+
 .side-menu {
   position: fixed;
   left: auto;
@@ -4163,19 +4211,40 @@ figcaption {
 }
 
 .text-block-small {
-  font-size: 12px;
+  font-size: 16px;
   line-height: 28px;
   text-transform: none;
 }
 
 .paragraph {
-  font-family: Cabinetgrotesk, sans-serif;
+  font-family: Archivo, sans-serif;
   font-size: 20px;
   line-height: 32px;
 }
 
 .text-block-6 {
-  font-weight: 700;
+  font-weight: 400;
+}
+
+.body-4 {
+  background-color: #fff;
+}
+
+.body-5 {
+  background-color: #fff;
+}
+
+.bold-text {
+  color: #000;
+  font-weight: 400;
+}
+
+.text-block-7 {
+  font-weight: 400;
+}
+
+.text-block-8 {
+  font-weight: 400;
 }
 
 @media screen and (max-width: 991px) {
@@ -4453,7 +4522,7 @@ figcaption {
     color: #151515;
     font-size: 14px;
     line-height: 24px;
-    font-weight: 600;
+    font-weight: 400;
   }
 
   .nav-link-small:hover {
@@ -5697,6 +5766,10 @@ figcaption {
     padding-left: 0px;
   }
 
+  .dropdown-space {
+    display: none;
+  }
+
   .nav-brand-v1 {
     padding-right: 14px;
     padding-left: 14px;
@@ -5900,6 +5973,10 @@ figcaption {
 
   .dropdown-post-grid {
     grid-template-columns: repeat(auto-fit, minmax(80vw, 1fr));
+  }
+
+  .dropdown-link {
+    font-weight: 400;
   }
 
   .search-form {
@@ -6557,24 +6634,3 @@ figcaption {
   }
 }
 
-@font-face {
-  font-family: 'Cabinetgrotesk';
-  src: url("/assets/fonts/cabinetgrotesk-extrabold.woff2") format('woff2'), url("/assets/fonts/cabinetgrotesk-extrabold.eot") format('embedded-opentype'), url("/assets/fonts/cabinetgrotesk-extrabold.woff") format('woff'), url("/assets/fonts/cabinetgrotesk-extrabold.ttf") format('truetype');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Cabinetgrotesk';
-  src: url("/assets/fonts/cabinetgrotesk-regular.woff2") format('woff2'), url("/assets/fonts/cabinetgrotesk-regular.eot") format('embedded-opentype'), url("/assets/fonts/cabinetgrotesk-regular.woff") format('woff'), url("/assets/fonts/cabinetgrotesk-regular.ttf") format('truetype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Cabinetgrotesk';
-  src: url("/assets/fonts/cabinetgrotesk-light.woff2") format('woff2'), url("/assets/fonts/cabinetgrotesk-light.eot") format('embedded-opentype'), url("/assets/fonts/cabinetgrotesk-light.woff") format('woff'), url("/assets/fonts/cabinetgrotesk-light.ttf") format('truetype');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}

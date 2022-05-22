@@ -516,6 +516,905 @@ collections:
             name: title
             widget: hidden
             default: Colors
+      - label: Texts
+        name: texts
+        file: cms/_data/texts.json
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Texts
+          - hint: 'Original text: Design + AI + web3 , key: 46a78a8b'
+            label: Text
+            name: 46a78a8b
+            widget: string
+          - hint: 'Original text: Home, key: 2268ff'
+            label: Text
+            name: 2268ff
+            widget: string
+          - hint: 'Original text: Categories, key: -3be6ddc4'
+            label: Text
+            name: '-3be6ddc4'
+            widget: string
+          - hint: 'Original text: No items found., key: 3d503d2b'
+            label: Text
+            name: 3d503d2b
+            widget: string
+          - hint: 'Original text: AI Design Tools, key: 21c485f1'
+            label: Text
+            name: 21c485f1
+            widget: string
+          - hint: 'Original text: About, key: 3c2336d'
+            label: Text
+            name: 3c2336d
+            widget: string
+          - hint: 'Original text: Advertise, key: 4e4b4807'
+            label: Text
+            name: 4e4b4807
+            widget: string
+          - hint: 'Original text: Featured Posts, key: -34b20a9f'
+            label: Text
+            name: '-34b20a9f'
+            widget: string
+          - hint: 'Original text: View All, key: 4b0951a6'
+            label: Text
+            name: 4b0951a6
+            widget: string
+          - hint: "Original text: \_min read, key: 55c12744"
+            label: Text
+            name: 55c12744
+            widget: string
+          - hint: 'Original text: Recent Articles, key: 193f7e62'
+            label: Text
+            name: 193f7e62
+            widget: string
+          - hint: 'Original text: Feed, key: 2159be'
+            label: Text
+            name: 2159be
+            widget: string
+          - hint: 'Original text: Interviews, key: 186f3b32'
+            label: Text
+            name: 186f3b32
+            widget: string
+          - hint: >-
+              Original text: Submit a tool, an app, software or website, key:
+              -745a55de
+            label: Text
+            name: '-745a55de'
+            widget: string
+          - hint: >-
+              Original text: Thank you! Your submission has been received!, key:
+              5a0ea5a1
+            label: Text
+            name: 5a0ea5a1
+            widget: string
+          - hint: >-
+              Original text: Oops! Something went wrong while submitting the
+              form., key: -7c112e99
+            label: Text
+            name: '-7c112e99'
+            widget: string
+          - hint: >-
+              Original text: Artificial Intelligence helps designers in tedious
+              tasks to free up more time for creative problem solving., key:
+              16979084
+            label: Text
+            name: '16979084'
+            widget: text
+          - hint: 'Original text: AI Design.Tools , key: -49c8a23'
+            label: Text
+            name: '-49c8a23'
+            widget: string
+          - hint: >-
+              Original text: is a website where the best articles and tools in
+              the related fields of artificial intelligence and design are hand
+              picked. A handy collection for everyone's benefit – tools are
+              tested as time allows.
+                          , key: -2eaf2fb5
+            label: Text
+            name: '-2eaf2fb5'
+            widget: text
+          - hint: 'Original text: Tags, key: 27a839'
+            label: Text
+            name: 27a839
+            widget: string
+          - hint: 'Original text: Planned Features, key: 6bd14759'
+            label: Text
+            name: 6bd14759
+            widget: string
+          - hint: 'Original text: Currently in beta 🤖, key: -442fbf79'
+            label: Text
+            name: '-442fbf79'
+            widget: string
+          - hint: 'Original text: Visitor Stats, key: 604ac22d'
+            label: Text
+            name: 604ac22d
+            widget: string
+          - hint: 'Original text: Created by Bencium , key: 4353928'
+            label: Text
+            name: '4353928'
+            widget: string
+          - hint: >-
+              Original text: Copyrights and/or trademarks of any image used
+              belong to their respective owners and are not being sold., key:
+              36a2a70d
+            label: Text
+            name: 36a2a70d
+            widget: text
+          - hint: 'Original text: Protected Page, key: -11d4bbff'
+            label: Text
+            name: '-11d4bbff'
+            widget: string
+          - hint: 'Original text: Password, key: 4c641ebb'
+            label: Text
+            name: 4c641ebb
+            widget: string
+          - hint: >-
+              Original text: Incorrect password. Please try again., key:
+              -f5c4b5f
+            label: Text
+            name: '-f5c4b5f'
+            widget: string
+          - hint: 'Original text: Page Not Found, key: -40b0787c'
+            label: Text
+            name: '-40b0787c'
+            widget: string
+          - hint: >-
+              Original text: The page you are looking for doesn't exist or has
+              been moved, key: 556d64d8
+            label: Text
+            name: 556d64d8
+            widget: string
+          - hint: "Original text: BACK\_TO\_HOME, key: 12a192b"
+            label: Text
+            name: 12a192b
+            widget: string
+          - hint: >-
+              Original text: Generative Adversarial Networks (GAN), Neural
+              Design, Neural Networks, Convolutional Neural Networks to name a
+              few – are developing rapidly., key: -1bc66acc
+            label: Text
+            name: '-1bc66acc'
+            widget: text
+          - hint: >-
+              Original text: Artificial intelligence could potentially help
+              designers streamline the more basic and tedious aspects of design
+              to free up more time for creative problem solving., key: 3550b209
+            label: Text
+            name: 3550b209
+            widget: text
+          - hint: 'Original text: AI Design.Tools, key: 39a85ea3'
+            label: Text
+            name: 39a85ea3
+            widget: string
+          - hint: "Original text:  is a website where global, hand selected articles are collected. Writings about taking advantage of artificial intelligence for the design profession. Putting together a handy collection on this website for everyone's benefit. It's not about theory only –\_most of the tools are , key: -1b1f1f51"
+            label: Text
+            name: '-1b1f1f51'
+            widget: text
+          - hint: 'Original text: tested and used by everyday people., key: -108c2002'
+            label: Text
+            name: '-108c2002'
+            widget: string
+          - hint: 'Original text: One of my focus areas is , key: -77158a91'
+            label: Text
+            name: '-77158a91'
+            widget: string
+          - hint: 'Original text: curation, key: 216320b5'
+            label: Text
+            name: 216320b5
+            widget: string
+          - hint: >-
+              Original text:  – automating design processes to get unlimited
+              possibilities for exploration. Where we designers become curators,
+              picking the best designs out of the variations the computer made
+              for us. Something similar concept that can be seen in the Autodesk
+              video above., key: 311eb6d0
+            label: Text
+            name: 311eb6d0
+            widget: text
+          - hint: 'Original text: The other area is the , key: -25ca864f'
+            label: Text
+            name: '-25ca864f'
+            widget: string
+          - hint: >-
+              Original text: personalisation of user experience: , key:
+              -38b65e8f
+            label: Text
+            name: '-38b65e8f'
+            widget: string
+          - hint: >-
+              Original text: based on previously collected data, the experience
+              is tailored to the individual user with the help of AI., key:
+              -12e5e68d
+            label: Text
+            name: '-12e5e68d'
+            widget: text
+          - hint: >-
+              Original text: By using AI driven parametric and algorithmic
+              design apps, we could personalise interfaces and brands up to the
+              smallest details. As designers we can take the following into
+              account:, key: 3cf0eee
+            label: Text
+            name: 3cf0eee
+            widget: text
+          - hint: >-
+              Original text: time of the day when the customer interacts with
+              our product,, key: 23a1d452
+            label: Text
+            name: 23a1d452
+            widget: string
+          - hint: 'Original text: the user''s age,, key: -16897dd9'
+            label: Text
+            name: '-16897dd9'
+            widget: string
+          - hint: 'Original text: emotional state, key: 23f46db7'
+            label: Text
+            name: 23f46db7
+            widget: string
+          - hint: >-
+              Original text: and and many other data we don't even know about
+              yet., key: -7b8f452d
+            label: Text
+            name: '-7b8f452d'
+            widget: string
+          - hint: >-
+              Original text: See another example of a simple curation process.
+              Tool provided by , key: 74e298f8
+            label: Text
+            name: 74e298f8
+            widget: string
+          - hint: 'Original text: components.ai, key: 65c35600'
+            label: Text
+            name: 65c35600
+            widget: string
+          - hint: >-
+              Original text: There will be a lot of architecture related
+              articles, because the methods and tools used in architecture could
+              be applied to visual design, product and graphic design., key:
+              203c2dfd
+            label: Text
+            name: 203c2dfd
+            widget: text
+          - hint: "Original text: Embedding\_AI into the human society is best imagined by the great Ridley Scott in Prometheus., key: -122c5033"
+            label: Text
+            name: '-122c5033'
+            widget: text
+          - hint: 'Original text: Happy watching / reading, , key: 6d87fbc2'
+            label: Text
+            name: 6d87fbc2
+            widget: string
+          - hint: 'Original text: Bence, key: 3d1a20d'
+            label: Text
+            name: 3d1a20d
+            widget: string
+          - hint: 'Original text: ‍, key: 200d'
+            label: Text
+            name: 200d
+            widget: string
+          - hint: 'Original text: Send me an email , key: 7af4b847'
+            label: Text
+            name: 7af4b847
+            widget: string
+          - hint: 'Original text: ben@bencium.co.uk, key: -1ea0a942'
+            label: Text
+            name: '-1ea0a942'
+            widget: string
+          - hint: 'Original text:  • follow me for site updates , key: 2cacf7a1'
+            label: Text
+            name: 2cacf7a1
+            widget: string
+          - hint: 'Original text: @bencium, key: -14fbefb7'
+            label: Text
+            name: '-14fbefb7'
+            widget: string
+          - hint: 'Original text: Design by Artificial Intelligence, key: -1c708c62'
+            label: Text
+            name: '-1c708c62'
+            widget: string
+          - hint: 'Original text: Articles, key: -4564c9a3'
+            label: Text
+            name: '-4564c9a3'
+            widget: string
+          - hint: "Original text: AI\_Design Tools, key: 6347c671"
+            label: Text
+            name: 6347c671
+            widget: string
+          - hint: >-
+              Original text: is a website where I hand pick the best articles
+              and tools in the related fields of artificial intelligence and
+              design. A handy collection for everyone's benefit. It's not a
+              collection of theoretical articles and clickbait links – I use
+              most of these tools myself.
+                        , key: -1bb952e9
+            label: Text
+            name: '-1bb952e9'
+            widget: text
+          - hint: >-
+              Original text: © 2021 BENCIUM LIMITED. all rights reserved, key:
+              3d58d89
+            label: Text
+            name: 3d58d89
+            widget: string
+          - hint: 'Original text: Category, key: 6dd211e'
+            label: Text
+            name: 6dd211e
+            widget: string
+          - hint: 'Original text: Information, key: -273fe2f4'
+            label: Text
+            name: '-273fe2f4'
+            widget: string
+          - hint: 'Original text: Roadmap, key: -4b5115e4'
+            label: Text
+            name: '-4b5115e4'
+            widget: string
+          - hint: "Original text: DESIGN &\_DEV, key: -3142bc67"
+            label: Text
+            name: '-3142bc67'
+            widget: string
+          - hint: 'Original text:  by Bencium, key: -78dcd640'
+            label: Text
+            name: '-78dcd640'
+            widget: string
+          - hint: 'Original text: Currently in beta, key: 3bce6e91'
+            label: Text
+            name: 3bce6e91
+            widget: string
+          - hint: 'Original text: All Posts, key: 4b6bc54'
+            label: Text
+            name: 4b6bc54
+            widget: string
+          - hint: 'Original text: min read, key: -5504395c'
+            label: Text
+            name: '-5504395c'
+            widget: string
+          - hint: "Original text: Getting content –\_keeping an eye on the latest tools. Please come back later for new content. It won't last too long...., key: -28908d9e"
+            label: Text
+            name: '-28908d9e'
+            widget: text
+          - hint: >-
+              Original text: is a website where the best articles and tools in
+              the related fields of artificial intelligence and design are hand
+              picked. A handy collection for everyone's benefit – tools are
+              tested as time allows.
+                        , key: 231d630b
+            label: Text
+            name: 231d630b
+            widget: text
+          - hint: 'Original text: Continue Reading, key: 671dc13'
+            label: Text
+            name: 671dc13
+            widget: string
+          - hint: "Original text: source:\_, key: 6816d501"
+            label: Text
+            name: 6816d501
+            widget: string
+          - hint: 'Original text: Submissions, key: 65fad687'
+            label: Text
+            name: 65fad687
+            widget: string
+          - hint: "Original text: Posts Tagged\_, key: 10cd1927"
+            label: Text
+            name: 10cd1927
+            widget: string
+          - hint: "Original text: Getting content –\_keeping an eye on the latest trends. Please come back later for new content. It won't last too long...., key: 2eb831ad"
+            label: Text
+            name: 2eb831ad
+            widget: text
+          - hint: 'Original text: Previous, key: -4811e0e9'
+            label: Text
+            name: '-4811e0e9'
+            widget: string
+          - hint: 'Original text: Next, key: 24ff13'
+            label: Text
+            name: 24ff13
+            widget: string
+          - hint: "Original text: Posts by\_ , key: 9482264"
+            label: Text
+            name: '9482264'
+            widget: string
+          - hint: 'Original text: This author has no posts., key: 35b74241'
+            label: Text
+            name: 35b74241
+            widget: string
+          - hint: 'Original text: About Author, key: -38d80242'
+            label: Text
+            name: '-38d80242'
+            widget: string
+          - hint: 'Original text: Work in progress, key: 30b03459'
+            label: Text
+            name: 30b03459
+            widget: string
+          - hint: >-
+              Original text:  Content: new fields to be explored where AI and
+              machine learning could help creators:, key: 51889ee3
+            label: Text
+            name: 51889ee3
+            widget: string
+          - hint: 'Original text: Generating , key: -67b9e2b2'
+            label: Text
+            name: '-67b9e2b2'
+            widget: string
+          - hint: 'Original text: music, key: 636ee25'
+            label: Text
+            name: 636ee25
+            widget: string
+          - hint: 'Original text: Text, copy and , key: 5924a493'
+            label: Text
+            name: 5924a493
+            widget: string
+          - hint: 'Original text: content, key: 38b73479'
+            label: Text
+            name: 38b73479
+            widget: string
+          - hint: 'Original text:  generation, key: -5130fec8'
+            label: Text
+            name: '-5130fec8'
+            widget: string
+          - hint: 'Original text: Language , key: -2e0e0858'
+            label: Text
+            name: '-2e0e0858'
+            widget: string
+          - hint: 'Original text: – translation and analysis, key: 3ff9eb81'
+            label: Text
+            name: 3ff9eb81
+            widget: string
+          - hint: 'Original text: Video and photography, key: -14c660f1'
+            label: Text
+            name: '-14c660f1'
+            widget: string
+          - hint: "Original text:  –\_search, manipulation and generation, key: 7526591b"
+            label: Text
+            name: 7526591b
+            widget: string
+          - hint: 'Original text: Education, key: 661d8788'
+            label: Text
+            name: 661d8788
+            widget: string
+          - hint: >-
+              Original text:  – the whole sector needs a general reform –
+              starting from primary schools through university – see the book ,
+              key: 685fa593
+            label: Text
+            name: 685fa593
+            widget: text
+          - hint: 'Original text: "Between Brains", key: 1f91bacb'
+            label: Text
+            name: 1f91bacb
+            widget: string
+          - hint: 'Original text:  written by , key: -7de38c00'
+            label: Text
+            name: '-7de38c00'
+            widget: string
+          - hint: >-
+              Original text: George A. Tilesch and Omar Hatamleh: , key:
+              2344cfce
+            label: Text
+            name: 2344cfce
+            widget: string
+          - hint: >-
+              Original text: "It's the right time for an education reform: for
+              centuries, teachers convey a message in the same way to every
+              single student. In contrast, students intellectual abilities are
+              completely different. As we move toward personalised healthcare,
+              it is time to achieve personalised education as well. It is also
+              important to educate independent, critically thinking adults. We
+              don’t want to teach them how to memorise things, it has no future.
+              If we have a five-year engineering degree by the time the student
+              graduates, most of the things learned will be completely obsolete,
+              precisely because technology is evolving so fast. Bridges of
+              communication should be built between schools and industry so that
+              the curriculum is always kept up to date. , key: -74b088ca
+            label: Text
+            name: '-74b088ca'
+            widget: text
+          - hint: "Original text: In addition, people will need other skills in the future –\_so they also need people who are good at strategic thinking, emotional intelligence, who are creative, always learn, can change their careers, and are adept at things that are not repetitive. After all, the first jobs that machines will take away from people will be repetitive jobs.\" – , key: 25a4757c"
+            label: Text
+            name: 25a4757c
+            widget: text
+          - hint: 'Original text: source in Hungarian, key: -1b2ce4b7'
+            label: Text
+            name: '-1b2ce4b7'
+            widget: string
+          - hint: 'Original text: Site features, key: -33d2ab2a'
+            label: Text
+            name: '-33d2ab2a'
+            widget: string
+          - hint: "Original text: Machine generated (GPT3) summaries of the articles –\_so you can quickly check whether you want to dig deep into a long, complex and technical case study, key: 101a7d91"
+            label: Text
+            name: 101a7d91
+            widget: text
+          - hint: >-
+              Original text: Machine generated summaries of long video
+              recordings of talks and lectures. I am planning to use auto
+              transcription services and create a summary of the text by another
+              tool. Currently testing OpenAI, Resoomer and TLDRthis.com, key:
+              3dd2d4
+            label: Text
+            name: 3dd2d4
+            widget: text
+          - hint: "Original text: Long term plan to write articles and explain all these complex (nerdy) AI stuff in Plain English –\_some of the topics and ideas in the videos and referenced articles could be explained in a much simpler ways (for example , key: 9ec10e5"
+            label: Text
+            name: 9ec10e5
+            widget: text
+          - hint: 'Original text: this article, key: -693cc68c'
+            label: Text
+            name: '-693cc68c'
+            widget: string
+          - hint: >-
+              Original text:  is could have been written in a way that everyone
+              can understand). Looking at an OpenAI tool that could potentially
+              summarise articles for a "2nd Grader"., key: -7ba252d0
+            label: Text
+            name: '-7ba252d0'
+            widget: text
+          - hint: 'Original text: Design + AI + web3 + NFT , key: -725df0dc'
+            label: Text
+            name: '-725df0dc'
+            widget: string
+          - hint: 'Original text: Style Guide, key: -7aba473'
+            label: Text
+            name: '-7aba473'
+            widget: string
+          - hint: 'Original text: Buttons, key: 719b5761'
+            label: Text
+            name: 719b5761
+            widget: string
+          - hint: 'Original text: Headings, key: -3e9d592f'
+            label: Text
+            name: '-3e9d592f'
+            widget: string
+          - hint: 'Original text: Paragraphs, key: -7764bf1b'
+            label: Text
+            name: '-7764bf1b'
+            widget: string
+          - hint: 'Original text: Rich Texts, key: -b614b5e'
+            label: Text
+            name: '-b614b5e'
+            widget: string
+          - hint: 'Original text: Button, key: 77471352'
+            label: Text
+            name: '77471352'
+            widget: string
+          - hint: 'Original text: Big Buttons, key: -55a0e7df'
+            label: Text
+            name: '-55a0e7df'
+            widget: string
+          - hint: 'Original text: Small Buttons, key: f61c128'
+            label: Text
+            name: f61c128
+            widget: string
+          - hint: 'Original text: Super Heading Number 1, key: -5b0ea023'
+            label: Text
+            name: '-5b0ea023'
+            widget: string
+          - hint: 'Original text: King of Headings, key: 19509c11'
+            label: Text
+            name: 19509c11
+            widget: string
+          - hint: >-
+              Original text: What would the consumer gain by using your product
+              or service? This could be tangible, like a free gift; prestige,
+              power or fame. But remember: you must be able to make good on that
+              promise, so don’t offer anything unreasonable., key: -5b8dc963
+            label: Text
+            name: '-5b8dc963'
+            widget: text
+          - hint: 'Original text: Super Heading Number 2, key: -5b0ea022'
+            label: Text
+            name: '-5b0ea022'
+            widget: string
+          - hint: 'Original text: Heading''s Revenge, key: 720a32b8'
+            label: Text
+            name: 720a32b8
+            widget: string
+          - hint: 'Original text: Super Heading Number 3, key: -5b0ea021'
+            label: Text
+            name: '-5b0ea021'
+            widget: string
+          - hint: 'Original text: Rise of Headings, key: -2f636fbd'
+            label: Text
+            name: '-2f636fbd'
+            widget: string
+          - hint: 'Original text: Super Heading Number 4, key: -5b0ea020'
+            label: Text
+            name: '-5b0ea020'
+            widget: string
+          - hint: 'Original text: Heading''s Fall, key: 3c0c79ed'
+            label: Text
+            name: 3c0c79ed
+            widget: string
+          - hint: 'Original text: Super Heading Number 5, key: -5b0ea01f'
+            label: Text
+            name: '-5b0ea01f'
+            widget: string
+          - hint: 'Original text: Return of the Heading, key: 3848753a'
+            label: Text
+            name: 3848753a
+            widget: string
+          - hint: 'Original text: Super Heading Number 6, key: -5b0ea01e'
+            label: Text
+            name: '-5b0ea01e'
+            widget: string
+          - hint: 'Original text: The Last Heading, key: -5ff40a19'
+            label: Text
+            name: '-5ff40a19'
+            widget: string
+          - hint: 'Original text: >>>> Text block small, key: -1b5085ff'
+            label: Text
+            name: '-1b5085ff'
+            widget: string
+          - hint: 'Original text: Paragraph, key: -145e16b2'
+            label: Text
+            name: '-145e16b2'
+            widget: string
+          - hint: >-
+              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
+              elit. , key: 39fc5310
+            label: Text
+            name: 39fc5310
+            widget: string
+          - hint: 'Original text: Suspendisse , key: -728cdff8'
+            label: Text
+            name: '-728cdff8'
+            widget: string
+          - hint: >-
+              Original text: varius enim in eros elementum tristique. Duis
+              cursus, mi quis viverra ornare, eros dolor interdum nulla, ut
+              commodo diam libero vitae erat. Aenean faucibus nibh et justo
+              cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus
+              tristique posuere., key: -7339d520
+            label: Text
+            name: '-7339d520'
+            widget: text
+          - hint: 'Original text: Paragraph Big, key: ae0230e'
+            label: Text
+            name: ae0230e
+            widget: string
+          - hint: >-
+              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
+              elit. Suspendisse varius enim in eros elementum tristique. Duis
+              cursus, mi quis viverra ornare, eros dolor interdum nulla, ut
+              commodo diam libero vitae erat. Aenean faucibus nibh et justo
+              cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus
+              tristique posuere., key: -5286fc08
+            label: Text
+            name: '-5286fc08'
+            widget: text
+          - hint: 'Original text: Paragraph Small, key: -2bab106b'
+            label: Text
+            name: '-2bab106b'
+            widget: string
+          - hint: 'Original text: Rich Text, key: 41b289f1'
+            label: Text
+            name: 41b289f1
+            widget: string
+          - hint: "Original text: A successful marketing plan relies heavily on the pulling-power of advertising copy. Writing result-oriented ad copy is difficult, as it must appeal to, entice, and convince consumers to take action. There is no\_, key: -61db9d57"
+            label: Text
+            name: '-61db9d57'
+            widget: text
+          - hint: 'Original text: magic formula, key: -4387660d'
+            label: Text
+            name: '-4387660d'
+            widget: string
+          - hint: "Original text: \_to write perfect ad copy; it is based on a number of factors, including ad placement, demographic, even the consumer’s mood when they see your ad.\_, key: -5b828d1b"
+            label: Text
+            name: '-5b828d1b'
+            widget: text
+          - hint: 'Original text: Simple & Powerful Template, key: -20bfa386'
+            label: Text
+            name: '-20bfa386'
+            widget: string
+          - hint: "Original text: So how is any writer supposed to pen a stunning piece of advertising copy — copy that sizzles and sells? The following tips will jumpstart your creative thinking and help you write a better ad. Consumers are inundated with ads, so it’s vital that your ad catches the eye and immediately grabs interest.\_, key: 5699fa48"
+            label: Text
+            name: 5699fa48
+            widget: text
+          - hint: 'Original text: This is a free photo from , key: 48e4bb47'
+            label: Text
+            name: 48e4bb47
+            widget: string
+          - hint: 'Original text: Unsplash, key: 34b8660'
+            label: Text
+            name: 34b8660
+            widget: string
+          - hint: "Original text: You could do this with a headline or slogan (such as VW’s “Drivers Wanted” campaign), color or layout (Target’s new colorful, simple ads are a testimony to this) or illustration (such as the Red Bull characters or Zoloft’s depressed ball and his ladybug friend).\_ All good advertising copy is comprised of the same basic elements.\_, key: -2e8ce89f"
+            label: Text
+            name: '-2e8ce89f'
+            widget: text
+          - hint: 'Original text: Infinite Possibilities, key: 60a64c85'
+            label: Text
+            name: 60a64c85
+            widget: string
+          - hint: "Original text: How you write your advertising copy will be based on where you will place your ad. If it’s a billboard ad, you’ll need a super catchy headline and simple design due to the speed at which people will pass. Online ads are similar; consumers are so inundated with Internet advertising that your ad must be quick and catchy.\_, key: 5e466037"
+            label: Text
+            name: '5e466037'
+            widget: text
+          - hint: >-
+              Original text: "Writing result-oriented ad copy is difficult, as
+              it must appeal to, entice, and convince consumers to take action.
+              There is no magic formula to write perfect ad copy.", key:
+              -6445d646
+            label: Text
+            name: '-6445d646'
+            widget: text
+          - hint: 'Original text: Unordered List:, key: 2c9ca3b0'
+            label: Text
+            name: 2c9ca3b0
+            widget: string
+          - hint: 'Original text: Beautifully Designed, key: -6a4159e1'
+            label: Text
+            name: '-6a4159e1'
+            widget: string
+          - hint: 'Original text: Fully Responsive, key: 38a48c0a'
+            label: Text
+            name: 38a48c0a
+            widget: string
+          - hint: 'Original text: CMS Content, key: 1c373462'
+            label: Text
+            name: 1c373462
+            widget: string
+          - hint: 'Original text: Smooth Interactions, key: -349d6a2d'
+            label: Text
+            name: '-349d6a2d'
+            widget: string
+          - hint: >-
+              Original text: Magazine advertising is the most versatile, but
+              this is solely dependent on the size of your ad and how many other
+              ads compete with yours. If you have a full page ad, feel free to
+              experiment; more page space gives you more creative space. If the
+              ad is tiny, you’ll need to keep things as simple as possible.,
+              key: 761f12e9
+            label: Text
+            name: 761f12e9
+            widget: text
+          - hint: 'Original text: Ordered List:, key: 7914e9a9'
+            label: Text
+            name: 7914e9a9
+            widget: string
+          - hint: 'Original text: A Perfect Webflow Template, key: 38f95f6a'
+            label: Text
+            name: 38f95f6a
+            widget: string
+          - hint: >-
+              Original text: Grabbing the consumer’s attention isn’t enough; you
+              have to keep that attention for at least a few seconds. This is
+              where your benefits come into play or a product description that
+              sets your offer apart from the others., key: -73c07db0
+            label: Text
+            name: '-73c07db0'
+            widget: text
+          - hint: 'Original text: Rich Text: Blog Post, key: 5dec8b67'
+            label: Text
+            name: 5dec8b67
+            widget: string
+      - label: Links
+        name: links
+        file: cms/_data/links.json
+        fields:
+          - label: Title
+            name: title
+            widget: hidden
+            default: Links
+          - hint: 'Original link: /, key: 2f'
+            label: Link
+            name: 2f
+            widget: string
+          - hint: >-
+              Original link: https://www.aidesign.tools/categories/tools, key:
+              4052275e
+            label: Link
+            name: 4052275e
+            widget: string
+          - hint: 'Original link: /about, key: 55b8e8be'
+            label: Link
+            name: 55b8e8be
+            widget: string
+          - hint: >-
+              Original link:
+              mailto:ben@bencium.co.uk?subject=AI%20Design%20Tools%20enquiry,
+              key: 680a5b77
+            label: Link
+            name: 680a5b77
+            widget: string
+          - hint: 'Original link: #, key: 23'
+            label: Link
+            name: '23'
+            widget: string
+          - hint: 'Original link: https://aidesign.tools, key: 59a9d662'
+            label: Link
+            name: 59a9d662
+            widget: string
+          - hint: >-
+              Original link: /roadmap-design-by-artificial-intelligence, key:
+              -3cdecb35
+            label: Link
+            name: '-3cdecb35'
+            widget: string
+          - hint: >-
+              Original link:
+              https://aidesign.pirsch.io/?domain=aidesign.tools&interval=30d,
+              key: -34d15a4b
+            label: Link
+            name: '-34d15a4b'
+            widget: string
+          - hint: 'Original link: https://www.bencium.co.uk, key: -390dd53'
+            label: Link
+            name: '-390dd53'
+            widget: string
+          - hint: 'Original link: https://components.ai, key: -7610c6f'
+            label: Link
+            name: '-7610c6f'
+            widget: string
+          - hint: 'Original link: https://twitter.com/bencium, key: -252fc02f'
+            label: Link
+            name: '-252fc02f'
+            widget: string
+          - hint: >-
+              Original link: mailto:ben@bencium.co.uk?subject=aidesign.tools,
+              key: -50e8f0d3
+            label: Link
+            name: '-50e8f0d3'
+            widget: string
+          - hint: 'Original link: /ai-design-tools, key: 2d80ae82'
+            label: Link
+            name: 2d80ae82
+            widget: string
+          - hint: 'Original link: https://bencium.co.uk, key: -7f12a0bc'
+            label: Link
+            name: '-7f12a0bc'
+            widget: string
+          - hint: 'Original link: https://elasticthemes.com, key: -3588ecfd'
+            label: Link
+            name: '-3588ecfd'
+            widget: string
+          - hint: 'Original link: https://betweenbrains.ai/, key: 675c7eef'
+            label: Link
+            name: 675c7eef
+            widget: string
+          - hint: >-
+              Original link:
+              https://24.hu/tech/2021/05/30/omar-hatamleh-nasa-interju-mesterseg-es-intelligencia-konyv/,
+              key: -2123ab0d
+            label: Link
+            name: '-2123ab0d'
+            widget: string
+          - hint: >-
+              Original link:
+              https://syncedreview.com/2021/05/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-22/,
+              key: 43a37241
+            label: Link
+            name: 43a37241
+            widget: string
+          - hint: 'Original link: #SG-Buttons, key: 623f214b'
+            label: Link
+            name: 623f214b
+            widget: string
+          - hint: 'Original link: #SG-Headings, key: -1ac7e5d9'
+            label: Link
+            name: '-1ac7e5d9'
+            widget: string
+          - hint: 'Original link: #SG-Paragraphs, key: ce136bb'
+            label: Link
+            name: ce136bb
+            widget: string
+          - hint: 'Original link: #SG-Rich-Texts, key: -70ec5575'
+            label: Link
+            name: '-70ec5575'
+            widget: string
+          - hint: >-
+              Original link:
+              https://webflow.com/templates/designers/sergey-azovskiy, key:
+              2c0c97d4
+            label: Link
+            name: 2c0c97d4
+            widget: string
+          - hint: 'Original link: https://unsplash.com, key: 5b0e5922'
+            label: Link
+            name: 5b0e5922
+            widget: string
+          - hint: 'Original link: https://unspash.com, key: -7fc8ab9c'
+            label: Link
+            name: '-7fc8ab9c'
+            widget: string
       - label: Images
         name: images
         file: cms/_data/images.json
@@ -524,214 +1423,6 @@ collections:
             name: title
             widget: hidden
             default: Images
-          - label: Image
-            name: 7deb2dd6
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 57f42729
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 1c03902c
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 79fe1970
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i108cf759
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i15afd68f
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i44a44c73
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 23d3fc9d
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i4b1f3c09
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i31f8e80f
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i34493813
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '644e6804'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 6bd25668
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i3cfb2661
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i6d718e60
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i7f3bb29d
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
           - label: Image
             name: i25376334
             widget: object
@@ -773,6 +1464,214 @@ collections:
                 required: false
           - label: Image
             name: i4cf71348
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-49df14d8'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1ca4d348'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 15bead91
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2ee32cf6'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2dfc3a63'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4abef31c
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2b1beb3c'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-30b2d101'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '7e484070'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-32e5948f'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-634ec14c'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '36263e63'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-478370b8'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-136c7ae5'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-36b5b475'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4e2cb9bf
             widget: object
             fields:
               - name: url
