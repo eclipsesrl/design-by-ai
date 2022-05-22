@@ -1102,7 +1102,7 @@ figcaption {
 }
 
 .body {
-  background-color: #f1e9e7;
+  background-color: #fff;
 }
 
 .footer-text {
@@ -2366,6 +2366,10 @@ figcaption {
   font-size: 11px;
   line-height: 16px;
   font-weight: 400;
+}
+
+.badge:hover {
+  color: #fff;
 }
 
 .badge.w--current {

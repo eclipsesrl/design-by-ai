@@ -60,7 +60,7 @@ background-attachment: fixed;
 </style></div>
       <div class="wrapper">
         <div class="post-hero-content">
-          {%- assign categoriesOfPosts = f_category-5 | resolveReference -%}<a href="{{ url }}" class="badge" style="background-color: {{categoriesOfPosts.data.f_color}};">{{ categoriesOfPosts.data.title }}</a>
+          <div class="badge"></div>
           <h1 class="post-heading">{{ title }}</h1>
           <div class="post-summary hero">{{ f_text }}</div>
           <div class="post-info text-white">

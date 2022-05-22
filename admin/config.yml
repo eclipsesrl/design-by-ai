@@ -1286,6 +1286,12 @@ collections:
             label: Text
             name: 5dec8b67
             widget: string
+          - hint: >-
+              Original text: This is some text inside of a div block., key:
+              7635fb4f
+            label: Text
+            name: 7635fb4f
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
