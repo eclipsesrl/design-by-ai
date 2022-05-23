@@ -92,7 +92,7 @@
 
 body {
   background-color: #fff;
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   color: #000;
   font-size: 14px;
   line-height: 24px;
@@ -119,7 +119,7 @@ h1[data-wf-focus-visible] {
 h2 {
   margin-top: 0px;
   margin-bottom: 20px;
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   color: #000;
   font-size: 28px;
   line-height: 40px;
@@ -137,7 +137,7 @@ h2:focus {
 h3 {
   margin-top: 0px;
   margin-bottom: 12px;
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   color: #000;
   font-size: 22px;
   line-height: 32px;
@@ -166,13 +166,13 @@ h6 {
   margin-bottom: 16px;
   font-size: 12px;
   line-height: 20px;
-  font-weight: 900;
+  font-weight: 800;
 }
 
 p {
   margin-top: 0px;
   margin-bottom: 24px;
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   color: #000;
   font-size: 20px;
   line-height: 32px;
@@ -910,7 +910,7 @@ figcaption {
 }
 
 .rich-text h2 {
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 26px;
   line-height: 30px;
   font-weight: 400;
@@ -918,14 +918,14 @@ figcaption {
 }
 
 .rich-text h3 {
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   font-weight: 400;
   text-transform: none;
 }
 
 .rich-text p {
   margin-bottom: 24px;
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   color: #000;
   font-size: 20px;
   line-height: 32px;
@@ -933,7 +933,7 @@ figcaption {
 }
 
 .rich-text li {
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 20px;
   line-height: 32px;
   font-weight: 400;
@@ -945,7 +945,7 @@ figcaption {
   padding: 16px 40px;
   border-left: 2px solid #6a00ff;
   border-top-style: none;
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   color: #686464;
   font-size: 20px;
   line-height: 32px;
@@ -956,7 +956,7 @@ figcaption {
 .rich-text figcaption {
   margin-top: 20px;
   margin-bottom: -4px;
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   color: #000;
   font-size: 14px;
   line-height: 24px;
@@ -977,13 +977,13 @@ figcaption {
 }
 
 .rich-text h4 {
-  font-family: Archivo, sans-serif;
-  font-weight: 900;
+  font-family: Inter, sans-serif;
+  font-weight: 400;
 }
 
 .rich-text h5 {
-  font-family: Archivo, sans-serif;
-  font-weight: 900;
+  font-family: Inter, sans-serif;
+  font-weight: 800;
 }
 
 .rich-text h6 {
@@ -999,7 +999,7 @@ figcaption {
 }
 
 .rich-text a {
-  color: #045c44;
+  color: #6a00ff;
 }
 
 .rich-text a:hover {
@@ -1019,7 +1019,7 @@ figcaption {
 }
 
 .logo.w--current {
-  font-family: Inter;
+  font-family: Inter, sans-serif;
   color: #000;
   font-weight: 600;
   text-decoration: none;
@@ -1373,15 +1373,15 @@ figcaption {
 }
 
 .nav-link-1:hover {
-  border: 1px solid #09ff89;
+  border: 1px none #09ff89;
   border-radius: 0px;
-  background-color: transparent;
+  background-color: #09ff89;
 }
 
 .nav-link-1.w--current {
-  border: 1px solid #09ff89;
+  border: 1px none #09ff89;
   border-radius: 0px;
-  background-color: transparent;
+  background-color: #09ff89;
   color: #151515;
   font-weight: 400;
 }
@@ -1686,7 +1686,7 @@ figcaption {
   border-top-style: none;
   border-left-style: solid;
   border-left-color: #6a00ff;
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   color: #686464;
   font-size: 20px;
   line-height: 32px;
@@ -1697,7 +1697,7 @@ figcaption {
   margin-top: 0px;
   margin-bottom: 8px;
   padding-left: 0px;
-  font-family: Telegraf;
+  font-family: Inter, sans-serif;
   font-size: 20px;
   line-height: 32px;
 }
@@ -4221,9 +4221,10 @@ figcaption {
 }
 
 .paragraph {
-  font-family: Archivo, sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 20px;
   line-height: 32px;
+  font-weight: 400;
 }
 
 .text-block-6 {
