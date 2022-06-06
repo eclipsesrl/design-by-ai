@@ -38,8 +38,10 @@ seo:
 ---
 After spending 2.5 hours GPU time on [midjourney.com](https://midjourney.com)
 
-I can honestly admit: the AI text to image tools will disrupt everything in visual design you could ever imagined. Experimentations, concept, art, paintings, logo design, ideations, character development, scene design, interiors etc. etc.
+I can honestly admit: AI **text to image** tools will disrupt everything in visual design you can imagine. Experimentations, concept, art, paintings, logo design, physical product design, cartoon, movie vfx, literature, comics, game design, ideations, character development, scene design, fashion, interiors etc. etc.
 
 100 years skipped!
 
 See what others are creating on [twitter.com/hashtag/midjourney](https://www.tiktok.com/tag/midjourney?lang=en) and on[ tiktok.com/tag/midjourney](https://www.tiktok.com/tag/midjourney?lang=en)
+
+What you'll see is just the beginning.
