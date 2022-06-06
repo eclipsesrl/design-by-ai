@@ -1,5 +1,5 @@
 ---
-title: Midjourney Text to Image Generation Blows Your Mind
+title: Midjourney  AI Text to Image Generation Will Blow Your Mind
 created-on: 2022-06-06T15:26:14.916Z
 updated-on: 2022-06-06T15:26:14.948Z
 published-on: 2022-06-06T15:26:14.972Z
@@ -8,7 +8,7 @@ f_image-url: https://www.bencium.co.uk/assets/images/undefined_bencium_generativ
 f_text: Played around with Midjourney – I could not stop experimenting day and
   night during the weekend.
 f_reading-time: "2"
-f_title: Midjourney Text to Image Blows Your Mind
+f_title: Midjourney  AI Text to Image Generation Will Blow Your Mind
 f_source: https://midjourney.com
 f_author-4: cms/team/bence.md
 f_category-5: cms/categories/tools.md
@@ -19,7 +19,7 @@ f_tags:
   - cms/tags/gan.md
 f_social-media-share-image:
   url: /assets/images/screenshot-2022-06-06-at-16.26.03.png
-  alt: midjourney generated jewellert
+  alt: midjourney generated jewellery
 f_featured: true
 f_trending: true
 tags: posts
@@ -27,12 +27,12 @@ layout: "[posts].html"
 date: 2022-06-06T15:26:14.993Z
 seo:
   noindex: false
-  twitter:title: Midjourney Text to Image Generation Blows Your Mind
+  twitter:title: Midjourney  AI Text to Image Generation Will Blow Your Mind
   twitter:card: summary
-  title: Midjourney Text to Image Generation Blows Your Mind
+  title: Midjourney  AI Text to Image Generation Will Blow Your Mind
   description: Played around with Midjourney – I could not stop experimenting day
     and night during the weekend.
-  og:title: Midjourney Text to Image Generation Blows Your Mind
+  og:title: Midjourney  AI Text to Image Generation Will Blow Your Mind
   og:image: /assets/images/screenshot-2022-06-06-at-16.26.03.png
   twitter:site: ""
 ---
