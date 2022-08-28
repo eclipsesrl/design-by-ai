@@ -3,8 +3,8 @@ title: Midjourney  AI Text to Image Generation Will Blow Your Mind
 created-on: 2022-06-06T15:26:14.916Z
 updated-on: 2022-06-06T15:26:14.948Z
 published-on: 2022-06-06T15:26:14.972Z
-f_article-thumbnail-image-url: https://www.bencium.co.uk/assets/images/undefined_bencium_generative_designrsslerattractor2dflatletterbshapes.jpeg
-f_image-url: https://www.bencium.co.uk/assets/images/undefined_bencium_generative_designfeigenbaumattractorshapegoldjewelleryluxurysymmetric-5.jpg
+f_article-thumbnail-image-url: https://d33wubrfki0l68.cloudfront.net/9d4b80eee4b532a4de5638288b8703f1e72bac8c/80584/images/undefined_bencium_generative_designfeigenbaumattractorshapegoldjewelleryluxurysymmetric-6.webp
+f_image-url: https://d33wubrfki0l68.cloudfront.net/9d4b80eee4b532a4de5638288b8703f1e72bac8c/80584/images/undefined_bencium_generative_designfeigenbaumattractorshapegoldjewelleryluxurysymmetric-6.webp
 f_text: Generated few concepts with Midjourney – it's so amazing, I could not
   stop experimenting
 f_reading-time: "2"
