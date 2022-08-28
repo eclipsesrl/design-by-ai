@@ -42,6 +42,6 @@ I can honestly admit: AI **text to image** tools will disrupt everything in visu
 
 100 years skipped!
 
-See what others are creating on [twitter.com/hashtag/midjourney](https://www.tiktok.com/tag/midjourney?lang=en) and on[ tiktok.com/tag/midjourney](https://www.tiktok.com/tag/midjourney?lang=en)
+See what others are creating on [twitter.com/hashtag/midjourney](https://twitter.com/hashtag/midjourney) and on[ tiktok.com/tag/midjourney](https://www.tiktok.com/tag/midjourney?lang=en)
 
 What you'll see is just the beginning.
