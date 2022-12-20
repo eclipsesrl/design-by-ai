@@ -37,4 +37,4 @@ seo:
   og:title: "New Feature: Directory of AI Use Cases"
   og:image: /assets/images/screenshot-2022-12-20-at-11.11.49.png
 ---
-W﻿e created proof of concepts and working use cases as demonstration projects and added to a searchable directory. Enjoy! [Enjoy](https://aidesigntools.softr.app)
+W﻿e created proof of concepts and working use cases as demonstration projects and added to a searchable directory. [Enjoy](https://aidesigntools.softr.app)
