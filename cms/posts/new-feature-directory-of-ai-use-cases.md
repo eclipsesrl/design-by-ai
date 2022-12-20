@@ -5,13 +5,13 @@ updated-on: 2022-12-20T11:12:18.599Z
 published-on: 2022-12-20T11:12:18.620Z
 f_article-thumbnail-image-url: https://www.aidesign.tools/ac4799a6-97d9-49f8-865b-8e35c5353165
 f_image-url: https://www.aidesign.tools/ac4799a6-97d9-49f8-865b-8e35c5353165
-f_text: W﻿e created proof of concepts and working use cases as demonstration
-  projects and added to a searchable directory. Enjoy!
+f_text: We created a searchable directory of proof of concepts and working use
+  cases of AI generated images and text.
 f_reading-time: "3"
-f_title: W﻿e created proof of concepts and working use cases as demonstration
-  projects and added to a searchable directory. Enjoy!
+f_title: "New Feature: Directory of AI Use Cases"
 f_source: https://aidesigntools.softr.app/
-f_category-5: cms/categories/tools.md
+f_author-4: cms/team/bence.md
+f_category-5: cms/categories/ai-ml.md
 f_tags:
   - cms/tags/advertising.md
   - cms/tags/architecture.md
@@ -30,11 +30,12 @@ date: 2022-12-20T11:12:18.642Z
 seo:
   noindex: false
   twitter:title: "New Feature: Directory of AI Use Cases"
-  twitter:card: summary
+  twitter:card: We created a searchable directory of proof of concepts and working
+    use cases of AI generated images and text.
   title: "New Feature: Directory of AI Use Cases"
-  description: W﻿e created proof of concepts and working use cases as
-    demonstration projects and added to a searchable directory. Enjoy!
+  description: We created a searchable directory of proof of concepts and working
+    use cases of AI generated images and text.
   og:title: "New Feature: Directory of AI Use Cases"
   og:image: /assets/images/screenshot-2022-12-20-at-11.11.49.png
 ---
-W﻿e created proof of concepts and working use cases as demonstration projects and added to a searchable directory. [Enjoy](https://aidesigntools.softr.app)
+We created a searchable directory of proof of concepts and working use cases of AI generated images and text. [Enjoy](https://aidesigntools.softr.app)
